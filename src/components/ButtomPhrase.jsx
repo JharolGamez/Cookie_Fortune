@@ -13,7 +13,7 @@ const ButtomPhrase = ({ setshow, setapp }) => {
     setapp(bgImag);
   };
 
-  return <button onClick={handleButton}>Probar mi suertes</button>;
+  return <button onClick={handleButton}>Probar mi suerte</button>;
 };
 
 export default ButtomPhrase;
